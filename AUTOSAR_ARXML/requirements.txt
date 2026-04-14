@@ -1,0 +1,5 @@
+# AUTOSAR ARXML Viewer
+# Requirements for Python Tkinter desktop application
+
+# Standard library only - no external dependencies required
+# Python 3.6+ with tkinter (included in standard Python installation)
